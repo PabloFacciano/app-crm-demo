@@ -9,8 +9,7 @@ Sistema de Administracion de Clientes, Productos y Ventas.
 * Otras tecnologias utilizadas: **T-SQL** para Consultas.
 
 ## Capturas de Pantalla
-![Pantalla de Inicio](https://drive.google.com/file/d/1uRvpuxc0UVf2om41h4Abz6BANXvtrPMm/view?usp=drivesdk)
+[Link a Carpeta de Drive](https://drive.google.com/folderview?id=1DE3KlIBMjGFcGVQiF6GEikEi_Y9t6azp)
 
-## Proximamente
-* Capturas de Pantalla
-* Video Promocional
+## Video
+[Link a Video en Drive](https://drive.google.com/file/d/1DEARci0-NCXdYZr9cSAQSDEq2GcSRSgk/view?usp=drivesdk)
