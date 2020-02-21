@@ -8,6 +8,9 @@ Sistema de Administracion de Clientes, Productos y Ventas.
 * Base de Datos: **SQLServer 2008**
 * Otras tecnologias utilizadas: **T-SQL** para Consultas.
 
+## Capturas de Pantalla
+![Pantalla de Inicio](https://drive.google.com/file/d/1uRvpuxc0UVf2om41h4Abz6BANXvtrPMm/view?usp=drivesdk)
+
 ## Proximamente
 * Capturas de Pantalla
 * Video Promocional
